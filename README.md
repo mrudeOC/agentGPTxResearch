@@ -4,6 +4,7 @@ AgentGPT meets research methods
 <p align="center">
 This is a fork of the Agent GPT project. The goal of this project is to structure AgentGPT to be research-centric, including roles typically involved in a general reearch project. The preferred method of doing this is creating modular tools to access the preferred research databases, Q/A over documents found in the research process, add to the list of documents used for a research project, and  create a document with results of the research.
 </p>
+
 ---
 
 <p align="center">
